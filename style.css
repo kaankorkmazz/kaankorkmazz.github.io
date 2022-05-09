@@ -1,0 +1,66 @@
+#abm{
+    padding-left: 140px;
+}
+
+#mc{
+    padding-left: 90px;
+}
+
+#cnt{
+    padding-left: 90px;
+}
+
+.myimg{
+    margin-right: 30%;
+}
+.mytext{
+    margin-top: 110px;
+}
+
+#title2{
+    padding-bottom: 20px;
+}
+
+#title1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card{
+    margin-left: 180px;
+
+}
+
+.card-text{
+
+    text-align: center;
+}
+
+.card-img-top{
+    height: 200px;
+    width: 200px;
+}
+
+#mailtext{
+    text-align: center;
+    padding-bottom: 5px;
+    
+ }
+
+ #list {
+    float: left;
+ }
+
+#linkedin1 {
+
+    margin-left: 150px;
+}
+
+#instagram1 {
+    
+    margin-left: 420px;
+}
+
+#github1 {
+    margin-left: 500px;
+}
